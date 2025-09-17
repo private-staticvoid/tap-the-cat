@@ -3,6 +3,8 @@
 **Tap the Cat** is a fun desktop game built with **Java Swing**.  
 The goal is simple: tap the cat to make it hungry, then feed it to keep it happy.
 
+👉 *Inspired by the legendary [Bongo Cat](https://bongo.cat/)* 🎶🐱  
+
 ## 🎮 Gameplay
 - 🖱️ **Tap the Cat** → Increases hunger level.  
 - 🍣 **Feed with Favorite Food** → Restores hunger and makes the cat happy.  
