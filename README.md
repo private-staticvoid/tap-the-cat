@@ -25,3 +25,12 @@ The goal is simple: tap the cat to make it hungry, then feed it to keep it happy
 2. Compile the source files:  
    ```bash
    javac TapTheCat.java
+
+# 🎮 Gameplay Showcase
+
+Here are some gameplay screenshots from the project:
+
+## 📸 Screenshots
+
+### Screenshot 1
+![Gameplay Screenshot 1](screenshots/ttc1.png)
