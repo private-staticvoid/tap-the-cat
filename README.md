@@ -34,3 +34,9 @@ Here are some gameplay screenshots from the project:
 
 ### Screenshot 1
 ![Gameplay Screenshot 1](screenshots/ttc1.png)
+
+### Screenshot 2
+![Gameplay Screenshot 2](screenshots/ttc2.png)
+
+### Screenshot 3
+![Gameplay Screenshot 3](screenshots/ttc3.png)
