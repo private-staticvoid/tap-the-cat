@@ -12,7 +12,8 @@ The goal is simple: tap the cat to make it hungry, then feed it to keep it happy
 - 😼 Keep the balance — too much tapping without proper food will leave the cat unhappy!  
 
 ## 🚀 Features
-- Built entirely with **Java Swing** (no external libraries).  
+- Built entirely with **Java Swing** (no external libraries).
+- with background music
 - Cute interactive cat behavior.  
 - Multiple feeding options with different reactions.  
 - Lightweight and easy to run on any system with Java installed.  
