@@ -36,7 +36,7 @@ Here are some gameplay screenshots from the project:
 ![Gameplay Screenshot 1](ttcss/ttc1.png)
 
 ### Screenshot 2
-![Gameplay Screenshot 2](screenshots/ttc2.png)
+![Gameplay Screenshot 2](ttcss/ttc2.png)
 
 ### Screenshot 3
-![Gameplay Screenshot 3](screenshots/ttc3.png)
+![Gameplay Screenshot 3](ttcss/ttc3.png)
